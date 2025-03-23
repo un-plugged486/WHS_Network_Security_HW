@@ -6,3 +6,5 @@ C언어 및 PCAP 라이브러리를 이용하여 네트워크 인터페이스에
 - TCP 헤더: src/dst 포트 출력
 - HTTP 메시지 출력: 특정 문자열("WHS Fighting!") 출력
 - 오직 TCP 프로토콜만 처리
+
+*myheader.h가 같은 디렉토리에 존재해야 함!
