@@ -1,5 +1,5 @@
 # WHS_Network_Security_HW
-C/C++를 이용하여 PCAP API를 활용한 네트워크 패킷 캡처 프로그램
+C언어 및 PCAP 라이브러리를 이용하여 네트워크 인터페이스에서 실시간으로 TCP 패킷을 캡처하고, Ethernet, IP, TCP 헤더 정보 및 HTTP 메시지를 출력하는 프로그램을 작성
 - C언어로 작성함
 - Ethernet 헤더: src/dst MAC 주소 출력
 - IP 헤더: src/dst IP 주소 출력
